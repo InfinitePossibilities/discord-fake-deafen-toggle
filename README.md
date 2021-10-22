@@ -6,4 +6,5 @@ This script allows you to fake deafen/mute in voice chat
 Paste in code from code.js and execute/press enter <br />
 Press and release the Right Alt key to toggle on/off. <br /> 
 You should hear yourself deafen and undeafen quickly. This is good. <br />
+
 You'll now be able to talk normally, while others will see you as muted and/or deafened. Toggle off to fix any Discord issues that "require" relaunch of Discord.
