@@ -1,5 +1,5 @@
 # Discord Fake Deafen / Mute
-This script allows you to toggle on/off fake deafen/mute in voice chat
+This script allows you to toggle on/off a fake deafen/mute in voice chat
 
 # How to use
 <b>Ctrl + Shift + I</b> and go to "Console" tab. <br />
